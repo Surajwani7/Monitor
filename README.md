@@ -1,6 +1,8 @@
+*****************************************************************************
 # Monitor
-*********************************************************************************************
-A monitoring program written in Python that takes screenshots and saves keystrokes
+*****************************************************************************
+
+<b>A monitoring program written in Python that takes screenshots and saves keystrokes</b>
 
 Download Github file: - https://github.com/Surajwani7/Monitor.git
 then Extract it.
@@ -11,6 +13,6 @@ then Extract it.
 Instruction:
 1) Create keylogs.txt file
 2)  Create screenshots directory.
-********************************************************************************
+
  Run the main.py file.
 *******************************************************************************
